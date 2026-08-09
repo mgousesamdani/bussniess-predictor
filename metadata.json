@@ -1,0 +1,5 @@
+{
+  "name": "Business Predictor",
+  "description": "AI-powered business recommendation engine for aspiring Indian entrepreneurs based on regional data and economic trends.",
+  "requestFramePermissions": ["microphone"]
+}
